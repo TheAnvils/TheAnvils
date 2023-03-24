@@ -14,8 +14,6 @@
 - 📄 Know about my experiences [what do i even put here](what do i even put here)
 
 - ⚡ Fun fact **I'm an AH-1W Super Cobra attack helicopter with a maximum airspeed of 315 km/h a 4-bladed main rotor and 2-bladed tail-rotor with a capacity for 2 crew members.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
